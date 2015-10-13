@@ -1,0 +1,198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hex",
+				"hex_hash"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/root/datanetwork/zhaoP1Server.c",
+		"/root/datanetwork/zhaoP1Client.c",
+		"/root/datanetwork/TCPServer.c",
+		"/root/datanetwork/TCPClient.c",
+		"/root/workspace/dataNetworkP1/userList.txt",
+		"/root/datanetwork/userList.txt",
+		"/root/Cryptography/midterm.txt",
+		"/root/Cryptography/sha1.py",
+		"/root/Cryptography/nameID_SHA1.text",
+		"/root/Cryptography/README.md",
+		"/root/leetcodes/checkpowerof2.java",
+		"/root/leetcodes/trailingZeros.java",
+		"/root/leetcodes/sqrt.java",
+		"/root/leetcodes/interleavingString.java",
+		"/root/leetcodes/fastPower.java",
+		"/root/leetcodes/interleavingPositiveNegative.java",
+		"/root/leetcodes/sortColors.java",
+		"/root/leetcodes/sortlettersbycase.java",
+		"/root/leetcodes/partitionArrayS2.java",
+		"/root/leetcodes/partitionArray.java",
+		"/root/leetcodes/3sumClosest.java",
+		"/root/leetcodes/4sum.java",
+		"/root/3sumClosest.java",
+		"/root/leetcodes/3sum.java",
+		"/root/leetcodes/maximumSubarrayDifference.java",
+		"/root/leetcodes/maximumSubarray_greedy.java",
+		"/root/leetcodes/minimumSubarray.java",
+		"/root/leetcodes/maximumSubarrayIII.java",
+		"/root/leetcodes/maximumSubarrayII.java",
+		"/root/leetcodes/majorityElementII.java",
+		"/root/leetcodes/majorityNumberIII.java",
+		"/root/leetcodes/majorityNumberII.java",
+		"/root/leetcodes/majorityNumber.java",
+		"/root/leetcodes/singleNumberIII.java",
+		"/root/leetcodes/singleNUmberII.java",
+		"/root/leetcodes/longestCommonSubsequence.java",
+		"/root/leetcodes/longestCommonSubstring.java",
+		"/root/leetcodes/distinctSubsequence.java",
+		"/root/leetcodes/editDistance.java",
+		"/root/leetcodes/longestIncreasingSubsequence.java",
+		"/root/leetcodes/reverseInteger.java",
+		"/root/leetcodes/validSudoku.java",
+		"/root/leetcodes/jumpGameII.java",
+		"/root/leetcodes/wordBreak.java",
+		"/root/leetcodes/palindromePartitioningII.java",
+		"/root/nmdown/nmdown.py",
+		"/root/.zhuaxia/zhuaxia.conf",
+		"/root/leetcodes/delete-node-in-the-middle-of-singly-linked-list.java",
+		"/root/leetcodes/fibonacci.java",
+		"/root/leetcodes/findtheconnectedcomponent",
+		"/root/leetcodes/intheundirectedgraph.java",
+		"/root/leetcodes/fizzbuzz.java",
+		"/root/leetcodes/flipBits.java",
+		"/root/leetcodes/flipBits_better.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"connect",
+			"struct",
+			"a",
+			"num"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 325.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
